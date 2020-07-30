@@ -22,14 +22,14 @@
   <a href="#license">License</a>
 </p>
 
-<div style="text-align:center"><img src="https://cdn.discordapp.com/attachments/737382004437418008/738495589599281162/2020-07-30-16-30-28.gif" /></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/spersinger/DVD-Bounce/master/source/img/preview.gif" /></div>
 
 ## How To Use
 
 To clone and install this application the only dependencies you need to have installed are
 
 ```
-ncurses gcc 
+ncurses gcc git
 ```
 To install run these commands:
 
@@ -47,9 +47,11 @@ $ make install
 $ dvd
 ```
 
+Run ``` dvd --help ``` for help
+
 ## Download
 
-You can [download](https://github.com/spersinger/DVD-Bounce/releases) the latest installable version of the application for Linux.
+You can [download](https://github.com/spersinger/DVD-Bounce/releases) the latest installable version of the application for Linux, Windows, and MacOS soon.
 
 ## Emailware
 
