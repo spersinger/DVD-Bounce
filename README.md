@@ -22,7 +22,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://cdn.discordapp.com/attachments/737382004437418008/738495589599281162/2020-07-30-16-30-28.gif)
+<div style="text-align:center"><img src="https://cdn.discordapp.com/attachments/737382004437418008/738495589599281162/2020-07-30-16-30-28.gif" /></div>
 
 ## How To Use
 
