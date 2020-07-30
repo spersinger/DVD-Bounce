@@ -55,7 +55,7 @@ You can [download](https://github.com/spersinger/DVD-Bounce/releases) the latest
 
 ## Emailware
 
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <spersinger@protonmail.com> about anything you'd want to say about this software. I'd really appreciate it!
+This application is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <spersinger@protonmail.com> about anything you'd want to say about this software. I'd really appreciate it!
 
 
 ## License
