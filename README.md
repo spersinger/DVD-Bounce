@@ -22,7 +22,7 @@
   <a href="#license">License</a>
 </p>
 
-<div style="text-align:center"><img src="https://media.discordapp.net/attachments/737382004437418008/738495589599281162/2020-07-30-16-30-28.gif" /></div>
+![screenshot](https://raw.githubusercontent.com/spersinger/DVD-Bounce/master/source/img/2020-07-30%2016-30-28.gif)
 
 ## How To Use
 
