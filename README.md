@@ -40,7 +40,7 @@ $ git clone https://github.com/spersinger/DVD-Bounce.git
 # Go into the repository
 $ cd DVD-Bounce
 
-# Install dependencies
+# Install the app
 $ make install
 
 # Run the app
@@ -64,5 +64,5 @@ GNU GPL 3
 
 ---
 
-> [spersinger.github.io](https://spersinger.github.io/website/m) &nbsp;&middot;&nbsp;
+> [spersinger.github.io](https://spersinger.github.io/website/) &nbsp;&middot;&nbsp;
 > GitHub [@spersinger](https://github.com/spersinger)
