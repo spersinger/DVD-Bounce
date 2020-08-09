@@ -15,7 +15,7 @@ int main(int argc, char *argv[]) {
         const char* bouncingText;
         float sec;				        /* to store the number of rows and *
 		                    			 * the number of colums of the screen */
-        sec = 0.1;
+        sec = 0.09;
         bouncingText = "DVD";
         shouldContinue = true;
         trail = false;
@@ -47,19 +47,17 @@ int main(int argc, char *argv[]) {
         y = row/2;
         
         len = strlen(bouncingText); 
-        int reverseVelocity = rand() % 2;
-        int xOrY = rand() % 2;
 
-        int velocity[2] = {1,1};
+        int velocity[2] = {
+                rand()%3-1,
+                rand()%3-1
+        };
 
-        if (reverseVelocity == 0) {
-                if (xOrY == 0) {
-                        velocity[0] = -velocity[0];
-                }
-                else {
-                        velocity[1] = -velocity[1];
-                }
+        while (velocity[0] == 0 || velocity[1] == 0) {
+                velocity[0] = rand()%3-1;
+                velocity[1] = rand()%3-1;
         }
+
 
         while (shouldContinue) {
 
