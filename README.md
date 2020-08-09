@@ -22,7 +22,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/spersinger/DVD-Bounce/master/source/img/dvd.gif)
+![screenshot](https://raw.githubusercontent.com/spersinger/DVD-Bounce/master/source/img/dvd.GIF)
 
 ## How To Use
 
