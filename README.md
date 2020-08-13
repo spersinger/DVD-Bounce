@@ -29,7 +29,7 @@
 To clone and install this application the only dependencies you need to have installed are
 
 ```
-ncurses gcc git
+ncurses gcc git make
 ```
 To install run these commands:
 
@@ -42,6 +42,33 @@ $ cd DVD-Bounce
 
 # Install the app
 $ make install
+
+# Run the app
+$ dvd
+```
+
+## Installing on Windows
+
+To install this application on windows using cygwin you will need the following packages
+
+```
+ncurses g++/gcc git make 
+```
+
+To install run these commands:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/spersinger/DVD-Bounce.git
+
+# Go into the repository
+$ cd DVD-Bounce
+
+# Install the app
+$ make
+
+# Copy the files to the cygwin bin folder
+$ cp ./dvd.exe /bin/
 
 # Run the app
 $ dvd
