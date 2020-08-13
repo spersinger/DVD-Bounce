@@ -52,7 +52,7 @@ $ dvd
 To install this application on windows using cygwin you will need the following packages
 
 ```
-ncurses g++/gcc git make 
+ncurses libncurses-devel g++/gcc git make 
 ```
 
 To install run these commands:
