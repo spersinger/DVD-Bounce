@@ -28,10 +28,10 @@ clean:
 
 install: dvd
 		@echo "Installing..."
-		@cp dvd ~/.local/bin
+		@sudo cp dvd /usr/bin/dvd
 		@echo "Done!"
 
 uninstall: 
 		@echo "Uninstalling..."
-		@rm ~/.local/bin/dvd
+		@rm /usr/bin/dvd
 		@echo "Done!"
