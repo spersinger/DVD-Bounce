@@ -34,7 +34,7 @@ int main(int argc, char *argv[]) {
                         bouncingText = argv[i];
                 }
                 if (std::string(argv[i]) == "-h" || std::string(argv[i]) == "--help") {
-                        printf("usage: bounce [options]\n\toptions:\n\t\t-s, --second     Specifies the number of movements per second. (Supports Decimals)\n\t\t-t, --trail      Enables a trail of dots\n\t\t-c, --string     Changes the string that is bounced from the default 'DVD'\n\t\t-h, --help       Help page\n");
+                        printf("usage: dvd [options]\n\toptions:\n\t\t-s, --second     Specifies the number of movements per second. (Supports Decimals)\n\t\t-t, --trail      Enables a trail of dots\n\t\t-c, --string     Changes the string that is bounced from the default 'DVD'\n\t\t-h, --help       Help page\n");
                         return 0;
                 }
         }
